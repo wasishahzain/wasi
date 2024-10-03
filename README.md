@@ -1,0 +1,2 @@
+# wasi
+for devops project
